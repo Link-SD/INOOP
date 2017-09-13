@@ -1,3 +1,8 @@
-﻿  Student.cpp
+﻿  Teacher.cpp
+  Subject.cpp
+  Student.cpp
+  Group.cpp
+  Assignment1.cpp
+  Generating Code...
   Assignment 1.vcxproj -> D:\Users\sando\Documents\GitHub\INOOP\Assignment 1\Debug\Assignment 1.exe
   Assignment 1.vcxproj -> D:\Users\sando\Documents\GitHub\INOOP\Assignment 1\Debug\Assignment 1.pdb (Partial PDB)

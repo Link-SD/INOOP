@@ -1,10 +1,10 @@
 #pragma once
-#include "Class.h"
+#include "Group.h"
 
 class Student {
 private:
 	std::string _name;
-	Class* _class;
+	Group* _class;
 public:
 	Student(std::string name);
 };

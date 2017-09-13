@@ -1,9 +1,7 @@
 // Assignment1.cpp : Defines the entry point for the console application.
 //
-
-#include "stdafx.h"
+#pragma once
 #include <iostream>
-
 
 int main() {
 	std::cout << "Hello World" << std::endl;

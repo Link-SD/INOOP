@@ -1,1 +1,5 @@
-#include "stdafx.h"
+#include "Subject.h"
+
+
+Subject::Subject(std::string name) {
+}
