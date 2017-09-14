@@ -3,10 +3,15 @@
 
 class Person {
 
-	private:
+	protected:
+		std::string name;
+		int age;
+
 
 public:
 	Person();
 	Person(std::string name);
-	virtual void getPersonName();
+	Person(std::string name, int age);
+	std::string getName() const;
+	int getAge() const;
 };
