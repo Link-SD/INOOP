@@ -25,10 +25,11 @@ Bibliotheek Bibliotheek::operator=(const Bibliotheek& bibliotheek)
 {
 	if (this != &bibliotheek)
 	{
-	//	delete(boek);
-	//	boek = new Boek();
-	//	boek->_type = bibliotheek.boek->_type;
-		boeken = bibliotheek.boeken;
+		for (size_t i = 0; i < bibliotheek.boeken.size(); ++i)
+		{
+			Boek* boek = new Boek(*(bibliotheek.boeken[i]));
+			boeken.push_back(boek);
+		}
 	}
 	return *this;
 }

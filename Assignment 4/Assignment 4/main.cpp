@@ -3,8 +3,6 @@
 
 int main()
 {
-//	Bibliotheek* bieb = new Bibliotheek();
-//	bieb->toon();
 
 //	delete(bieb);
 	

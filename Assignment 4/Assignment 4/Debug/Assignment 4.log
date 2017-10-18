@@ -1,3 +1,4 @@
-﻿  main.cpp
-  Assignment 4.vcxproj -> D:\Users\sando\Documents\GitHub\INOOP\Assignment 4\Assignment 4\Debug\Assignment 4.exe
-  Assignment 4.vcxproj -> D:\Users\sando\Documents\GitHub\INOOP\Assignment 4\Assignment 4\Debug\Assignment 4.pdb (Partial PDB)
+﻿  Bibliotheek.cpp
+d:\users\sando\documents\github\inoop\assignment 4\assignment 4\bibliotheek.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  Assignment 4.vcxproj -> D:\Users\sando\Documents\GitHub\INOOP\Assignment 4\Debug\Assignment 4.exe
+  Assignment 4.vcxproj -> D:\Users\sando\Documents\GitHub\INOOP\Assignment 4\Debug\Assignment 4.pdb (Partial PDB)
