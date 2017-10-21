@@ -7,7 +7,7 @@ Bibliotheek::Bibliotheek()
 
 Bibliotheek::~Bibliotheek()
 {
-	
+	delete boek;
 }
 
 

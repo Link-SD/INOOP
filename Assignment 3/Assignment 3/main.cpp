@@ -19,6 +19,8 @@ int main()
 	bieb->toon();
 	geefBoekDoor(bieb);
 	bieb->toon();
+	delete bieb;
+
 	std::cin.get();
 	return 0;
 }
