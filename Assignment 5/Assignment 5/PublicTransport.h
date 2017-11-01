@@ -7,7 +7,6 @@ class PublicTransport
 public:
 	PublicTransport();
 	PublicTransport(const std::string& name);
-	PublicTransport(const std::string& name, Ticket* ticket);
 	~PublicTransport();
 	
 	virtual float get_ticket_price() = 0;
@@ -26,6 +25,5 @@ protected:
 
 private:
 	std::string _type;
-	Ticket* _ticket;
 };
 
